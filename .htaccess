@@ -1,0 +1,5 @@
+# If using Apache and project in web root, this may help serving uploads
+Options -Indexes
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>
