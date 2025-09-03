@@ -1,7 +1,7 @@
 # PHP Photo Gallery (Simple)
 
 Fitur:
-- Register user & login
+- login admin (tidak ada registrasi untuk user)
 - Admin dashboard
 - CRUD Kategori
 - CRUD Foto (upload gambar ke folder `/uploads`)
